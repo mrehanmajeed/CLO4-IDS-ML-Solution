@@ -41,7 +41,7 @@ jupyter notebook IDS_ML_Solution.ipynb
 | Decision Tree | ~79.36% | ~96.70% | ~65.99% | ~78.44% |
 
 ## Results Summary
-- **Random Forest** selected as primary model for superior precision and explainability
+- **Decision Tree** selected as primary model for superior precision and explainability
 - High Recall ensures minimal missed attacks (low False Negatives)
 - Feature Importance analysis identifies top network traffic indicators of attacks
 - Confusion matrix and classification reports included for full evaluation
