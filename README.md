@@ -19,7 +19,7 @@ Design, develop, and evaluate a proof-of-concept ML model to augment an existing
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/CLO4-IDS-ML-Solution
+git clone https://github.com/mrehanmajeed/CLO4-IDS-ML-Solution
 cd CLO4-IDS-ML-Solution
 ```
 
