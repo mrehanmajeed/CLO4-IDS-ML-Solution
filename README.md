@@ -37,8 +37,8 @@ jupyter notebook IDS_ML_Solution.ipynb
 ## Models Implemented
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
-| Random Forest | ~99% | ~99% | ~99% | ~99% |
-| Decision Tree | ~99% | ~98% | ~99% | ~98% |
+| Random Forest | ~76.74% | ~96.71% | ~61.22% | ~74.98% |
+| Decision Tree | ~79.36% | ~96.70% | ~65.99% | ~78.44% |
 
 ## Results Summary
 - **Random Forest** selected as primary model for superior precision and explainability
