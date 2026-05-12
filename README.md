@@ -32,7 +32,14 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```bash
 jupyter notebook IDS_ML_Solution.ipynb
 ```
-> The notebook will automatically download the NSL-KDD dataset on first run.
+> The notebook will automatically download the NSL-KDD dataset on first run. It will also save the trained model as `ids_dt_model.pkl`.
+
+### 4. Run the Interactive Dashboard (Streamlit)
+To visualize the ML model in action with a beautiful frontend, run the Streamlit dashboard:
+```bash
+streamlit run app.py
+```
+> **Note:** The dashboard will allow you to enter live IP addresses or hostnames. It simulates the extraction of the 41 NSL-KDD networking features to demonstrate real-time predictive capabilities.
 
 ## Models Implemented
 | Model | Accuracy | Precision | Recall | F1-Score |
